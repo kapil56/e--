@@ -1,0 +1,463 @@
+ ============ PRA Practice (Questions and Answers) ============
+
+1) Which is NOT the editions of Windows server 2012
+--> web
+
+2) CRT, LCD, LED are?
+--> types of monitors
+
+3) KPI stands for
+--> Key Performance Indicator
+
+4) Protocol resolves an IP address from MAC address
+--> Address Resolution Protocol (ARP)
+
+5)Which one these are not an email agent?
+--> MVA
+
+6) What cables are composed of a glass or plastic inner core surrounded by cladding, all encased in an outside jacket.
+--> Fiber optics
+
+6) A _______ is DNS zone in which hostname to IP address relations are stored.
+--> forward lookup zone
+
+7) RAM,cache,registers are primary or secondary memory.
+--> Primary memory 
+
+8) Which RAID level is not fault tolerant
+--> RAID0
+
+9) Windows 10 is available in
+--> Both 32-bit and 64-bit architecture
+
+10) NNNNNNNN.NNNNNNNN.NNNNNNNN.HHHHHHHH Which class of IP does this belong? where N=Network ID H=host ID
+--> Class C
+
+11) What is ITSCM ?
+--> IT service continuity management 
+
+12) What is ECAB ?
+--> Emergency Change Advisory Board
+
+13) How many Phases are in the ITIL lifeCycle ?
+--> 5
+
+14) which of the resource record types contains the information a DNS server needs to perform reverse name lookups
+   a)CNAME
+   b)SOA
+   c)RVLOOK
+   d)PTR
+
+--> d)PTR
+
+15) The minimum hardware requirement for installing server 2012 are
+--> 1.4Ghz 64-bit processor, 512MB RAM, 32GB of disk space
+
+16) Spencer is running Windows 10. He displays the Start menu and then presses the Up arrow and Enter. What is displayed?
+   a)The file Explorer
+   b)The All Apps menu 
+   c)Microsoft Edge
+   d)The shutdown menu
+
+--> b)The All Apps menu 
+
+17) Which of these has to depend primarily on the central server for processing activities
+--> Thin Client
+
+18) Which protocol resolves an ip address to a mac address
+--> ARP (Address Resolution Protocol)
+
+19) Which of the following BEST describes a problem?
+   a) A serious incident which has a critical impact to the business
+   b) The cause of two or more incidents
+   c) An issue reported by a user
+   d) All of the options
+
+-->b) The cause of two or more incidents
+
+20) Sequence of activities combined to achieve a certain goal is called ______
+--> Process
+
+21) What is CI?
+--> Configuration Item 
+
+22) The disks locally attached to the server is called 
+--> DAS
+
+23) A set of values for each attributes for one item is known as
+--> Tuple or record
+
+24) Which of the following activities are performed by a service desk?
+   1.Logging details of incidents and Service requests
+   2.Providing first line investigation and diagnosis
+   3.Restoring service
+   4.Implementing all standardchanges
+
+  a)All of the options
+  b)1,2,3 only
+  c)2,4 only
+  d)3,4 only
+
+-->  b)1,2,3 only
+
+25) Flash ROM
+  a) Reprogrammable without chip removal
+  b)Hold system BIOS and CMOS settings
+  c) both options
+  d)None of the options
+
+--> c) both options
+
+26) Which is NOT an activity of Change management Process?
+  a)Recording of RFCs
+  b)Review of RFCs
+  c)Authorization of RFCs
+  d) Status Accounting
+
+--> d) Status Accounting
+
+27)Which of the following term is not relevant to NAS
+  a)NFS
+  b)SAN Switch
+  c)NAS Device
+  d)CIFS
+
+--> b)SAN Switch
+
+28) When you install Windows server 2012, you can choose between Server core installation and server with a GUI Which option would reduce the potential attack surface and servicing requirements?
+--> Server Core installation
+
+29) To kill a process by its name, the command used is
+--> killall processname
+
+30) The system LED is amber on a Cisco catalyst 2950 series switch. What does it indicate?
+--> The system is malfunctioning
+
+31) Which of the following is private IP address?
+  a)168.172.19.39
+  b)192.168.24.43
+  c)172.15.14.36
+  d) 12.0.0.1
+
+--> b)192.168.24.43
+
+32) The windows Store app is linked to which of the following?
+  a)The user's Microsoft account
+  b)The user's library account
+  c)The Administrator account
+  d)The local computer account
+
+-->  a)The user's Microsoft account
+
+33) Which feature works with both Microsoft Explorer and Microsoft Edge and Monitor websites, pages, and downloads for known issues?
+--> Blocker
+
+34) What is the subnet mask corresponding to a CIDR value of /16?
+-->255.255.0.0
+
+35) What are the three elements of the service Portfolio?
+--> Service Pipeline,Service catalogue, Retired Services
+
+36)An attribure in a relation is a forgein key if the ________ key form one relation is used as an attribute in that relation
+--> primary Key
+
+37)What among these is not seen in newer type motherboards?
+  a)Floppy disk port
+  b)EIDE port
+  c)AMR & AGP slots
+  d)All the above
+
+--> d)All the above
+
+38) Which Command elevates the privilage for a normal user to execute a particular command as root
+--> sudo
+
+39) Network DBMS follows
+--> Many to Many relation 
+
+40)Ping uses which internet layer protocol?
+--> ICMP
+
+41) If I want to have more than four partition on my work disk type would you prefer
+-->GPT disk
+
+42)Useraccount related information can be seen in the file
+--> /etc/passwd
+
+43) Dot matrix and Ink Jet printers are
+--> Character printer
+
+44) Which IP class is reserved for Multicasting
+--> Class D
+
+45) The command used to display selected attributes of specific object types in Active Directory is
+-->getatt
+
+46) A Data source in an ODBC architecturecan be
+-->MySQL
+
+47) Demand Management is to Understand customer requirements for service and how these vary over the business cycle and Ensure the provision of approprite levels of service
+--> TRUE
+
+48) BRM stands for
+--> Business Relationship Management
+
+49) ITIL first Published by
+--> Office of UK government
+
+50) At what frequency is the inventory of assets taken ?
+--> once in a year
+
+51)Which one of the following generates demand for services?
+   a)Service Level Agreement
+   b)Infrastructure trends
+   c)Patterns of business activity(PBA)
+   d)Cost of providing support
+
+-->  c)Patterns of business activity(PBA)
+
+52) The bigger partition size, ecurity and encryption is better in
+--> NTFS
+
+53) Command for Changing user ID of the user testuser to 2000
+--> usermode -u 2000 testuser
+
+54) What are the slots are used in PC motherboard to connect external NIC cards
+--> PCI
+
+55) You have been asked to immplement a RAID 1 solution for an engineers's desktop workstation. You want to use the minimum nymber of hard disks that are necessary to configure a RAID 1 array How many hard disk will you need to use?
+--> 2
+
+56) Windows 10 sign in screen does not have
+--> Task view
+
+57) Win 10 Continuum feature used for
+--> supporting hybrid laptop-tablet devices 
+
+58) You manage a windows server 2012 R2 system named Corpserver. Your supervisor asks you to add a server role to a different windows Server 2012 R2 system located in a different building named ResServer. Which features could you use to do this from the console of crop server?
+--> Serverr manager
+
+59) A DNS record that can be used to point your domain name and host names to a static IP address
+--> A
+
+60) Which one of the following is an objective of service catalogue management?
+--> Negotiating and agreeing service level agreement
+
+61) What will be the permission set for user,group and others for the file named data after executing chmod 664 data
+--> User:read,Write, Group:read,Write, Others:read
+
+62) Which of the following network devices are recommanded to be assigned static IP addresses?
+  a)Both B&C
+  b)servers
+  c)routers
+  d)network printers
+--> a)Both B&C
+
+63) Multicast communication is
+--> One to group communication
+
+64) Domain controller is 
+--> Central Database for storing user account info
+
+65) The contents of a file can be viewed by using 
+-->more,cat,less
+
+66) You can set ip as 0.10.10.10
+---> No we cannot(recheck Answer)
+
+67) Linux is an open source operating system
+--> TRUE
+
+68)A hard disc is divided into tracks which are further subdivided into
+--> Sectors
+
+69) In which topology, each computer is directly connected to two other computers in a network
+--> Ring topology
+
+70)Which of the following is a file system used in Virtual Desktop Interface?
+   a)NTFS
+   b)NFS
+   c)CAFS
+   d) VMS
+
+--> NTFS
+
+71) A group of records is called
+--> Fields
+
+72) Which cables has higher bandwidth of upto several Gbps
+--> Fiber Optic Cables 
+
+73) _______ is Windows 10 voice based digital asssistant
+--> Cortana
+
+74) What is the function of an Operating System?
+   a)Memory management
+   b)Data Management
+   c)Software management
+   d)All of the above
+
+--> d)All of the above
+
+75) Which is not a security threat
+   a)unchanged default password
+
+76) What Raid level does not use parity that provides redundancy?
+--> RAID 1
+
+77) Password can be set for normal user using the command 
+--> passwd
+
+78) Which of the following is the BEST definition of realiability
+  a)How long a service or configuration Item(CI) can perform its function without failind
+  b)How quickly a service or component can be restored to a normal working order
+  c)The level of risk that affects a service or process
+  d)The availability of service or component
+
+--> a)How long a service or configuration Item(CI) can perform its function without failind
+
+79) Karen has recently been hired to help with SEO and needs to add annotations to webpages she views in microsoft Edge. On the edge tool bar, what button must she click to begin this process?
+--> Make a web note
+
+80) Which one of the following statements about incident reporting and logging is CORRECT?
+  a)Incidents can only be reported by users
+  b)Incidents can be reported by anyone who detects a disruption or potential disruption to normal service
+  c)all calls to the service desk must be logged as incidents
+  d)incidents reported by technical staff must also be logged as problems
+
+--> b)Incidents can be reported by anyone who detects a disruption or potential disruption to normal service
+
+81) Name the virtulization program that allows multiple operating systems, which can include different operating systems or multiple instance of the same operating system, to share a single hardware processor
+--> Virtual machine
+
+82) Which of the following service design phase identifies proactive measures to improve availability and implement where cost justified?
+  a)Proactive Management
+  b)Supplier Management
+  c)Service Catalogue management
+  d)Availability management
+
+--> d)Availability management
+
+83)Server manager is great tool for managing most of your server settings and configuration all in one central place. Which one of the following Server manager features is used for storage management, replication and searching?
+--> File services
+
+84) How will you identify a failed service in windows 10?
+  a)Log files
+  b)Stop codes
+  c)Event viewer
+  d)All the options
+
+--> d)All the options (re-check Answer)
+
+85) Organisational unit is used for grouping the objectives in an active directory Domain
+--> 1 (re-check Answer) 
+
+86) Which desktop feature has been included in windows 10 which was not included in windows 8?
+--> Action pane(re-check Answer)
+
+87)What are the Two components of ITIL V3?
+--> The five core books and the complementary publications
+
+88)Which of the following are different levels of storage virtualization
+--> Hardware and Software level
+
+89)The term multi-core processing refers to
+--> Processor housing contains two or more cores operating at same frequency, independently of  each other
+
+90)A unique 64 bit address used to identify the hba card of each server is
+--> WWN
+
+91)The command to get ip Address details in windows 10
+--> ipconfig /all
+
+92)Which of the following malicious program do not replicate automatically
+  a) Zombie
+  b)Trojan horse
+  c)Virus
+  d)Worm
+
+--> b)Trojan horse
+
+93) Which is a private IP address
+   a)8.8.8.8
+   b)9.9.9.9
+   c)11.11.11.11
+   d)10.10.10.10
+
+-->  d)10.10.10.10
+
+94)A NAS solution is most appropriate for what type of data Environment
+--> Shared access
+
+95)What is sent by DHCP server as response which include IP address and other parameters to be assigned
+--> DHCP ack
+
+96) Which of the backup technology is space efficient
+--> Incremental backup
+
+97)MAC address is of
+--> 48 bits
+
+98) Which command is used for creating VLAN
+--> config# vlan 2,config# name HR
+
+99)Bandwidth supported by cat5 cable
+--> 100Mbps
+
+100) You neeed to set up passwords on all your default Telnet lines. What command would you start with?
+--> Switch1(config)#line vty 0 4
+
+101) Which of the following a loopback address?
+   a)128.0.0.1
+   b)129.0.0.1
+   c)127.0.0.1
+   d)126.0.0.1
+
+--> c)127.0.0.1
+
+102)Which layer is resposible for process to process delivery?
+-->Transport layer
+
+103)Which topology requires a cenral controller or hub?
+--> Star topology
+
+104)FTP server listens for connection on port number
+--> 21
+
+105)Each Class B network contains how many IP addresses that can be assigned to hosts?
+--> 65534
+
+106)What type of connectors are used in thinnet coaxial cable?
+--> BNC connectors and T connectors
+
+107)Which switching technology reduces the size of a broadcast domain?
+--> VLANs
+
+108)Which OSI layer is responsible for the only error detection?
+--> Data Link Layer
+
+109)What command copies the configuration from RAM into NVRAM?
+--> copy running-config startup-config
+
+110)Which address identifies a process on a host?
+--> port address
+
+111) Which of the following command sets a trunk port on a 2960 switch?
+--> switchport mode trunk
+
+112)The system LED is amber on aCisco catalyst 2950 series switch. what does this indicates?
+--> The system is malfunctioning
+
+113)The topology that supports bi-directional link between each possible node is
+--> Mesh
+
+114)Frame check sequence is use for?
+--> To check that perticular frame is valid or not
+
+115) What is the first valid host on the subnetwork that the node 172.28.71.106/27 belongs to?
+--> 172.28.71.97
+
+116) Which device cannot solve collision problems?
+--> Hubs
+
+======================= THANK YOU =====================
