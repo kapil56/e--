@@ -1,2 +1,2 @@
-<?php include_once("git.html"); ?>
+<?php include_once("bot.html"); ?>
 
