@@ -1,12 +1,4 @@
 <pre>
-'''
-NEURALNINE (c) 2019
-Stock Visualizer v0.1 Alpha
-
-This is the very first prototype and the code is not very clean
-Also there may be a couple of bugs
-A lot of exceptions are not handled
-'''
 
 # Imports
 from tkinter import *
@@ -47,7 +39,7 @@ def visualize():
     ax.grid(True)
     ax.set_axisbelow(True)
     ax.set_title('{} Share Price'.format(ticker), color='white')
-    ax.figure.canvas.set_window_title('NeuralNine Stock Visualizer v0.1 Alpha')
+    ax.figure.canvas.set_window_title('Wh!te stock viewer')
     ax.set_facecolor('black')
     ax.figure.set_facecolor('#121212')
     ax.tick_params(axis='x', colors='white')
@@ -60,7 +52,7 @@ def visualize():
 
 # Define Main Window
 root = Tk()
-root.title("NeuralNine Stock Visualizer v0.1 Alpha")
+root.title("Wh!te stock graph viewer")
 
 # Add Components And Link Function
 label_from = Label(root, text="From:")
@@ -73,7 +65,7 @@ label_to.pack()
 cal_to = DateEntry(root, width=50)
 cal_to.pack(padx=10, pady=10)
 
-label_ticker = Label(root, text="Ticker Symbol:")
+label_ticker = Label(root, text="Stock Symbol acc to yahooFinance:")
 label_ticker.pack()
 text_ticker = Entry(root)
 text_ticker.pack()
